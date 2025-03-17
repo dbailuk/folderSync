@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "folderSync": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Dima\\Desktop\\42\r\nC:\\Users\\Dima\\Desktop\\Replica\r\n2\r\nC:\\Users\\Dima\\Desktop/syncLog.txt "
+    }
+  }
+}
